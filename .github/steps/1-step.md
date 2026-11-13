@@ -5,6 +5,8 @@
 1. Issue の **Open in GitHub Codespaces** から自分の演習コピーの Codespace を作ります。VS Code の **Extensions** で `GitHub Copilot Chat` と `Python` が有効であることを確認します。
 
    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/{{full_repo_name}}?quickstart=1)
+
+   > 作成画面では **Create new codespace** と表示される場合があります。VS Code の起動時や Copilot の初回利用時に信頼確認が出たら、対象が自分の演習用コピーであることを確認し、**フォルダーを信頼して続行** を選びます。右下に **サインイン** が出ている場合は、演習に使っている GitHub アカウントで Copilot にサインインします。
 2. 上部のチャットアイコンで **Copilot Chat** を開き、**Ask** にします。下の1つ目のプロンプトを使い、プロジェクトの構成と起動方法を尋ねます。
 3. **Run and Debug** → **Start Debugging** で起動します。**Ports** でポート `8000` を見つけ、**Open in browser** を選びます。
 4. **Terminal** の `+` で新しいターミナルを開き、Windows は `Ctrl+I`、Mac は `Cmd+I` でターミナル内のチャットを開きます。
