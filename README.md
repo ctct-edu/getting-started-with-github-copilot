@@ -4,7 +4,7 @@
 
 ## 始め方
 
-1. GitHub にサインインし、[このテンプレートから演習を作成する](https://github.com/ctct-edu/getting-started-with-github-copilot/generate) を開きます。**Owner** と公開範囲を確認して **Create repository** を選びます。
+1. GitHub にサインインし、[このテンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=getting-started-with-github-copilot&owner=%40me&name=skills-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public) を開きます。**Repository name** に `skills-getting-started-with-github-copilot` が入っていることを確認します。**Owner** と公開範囲を確認して **Create repository** を選びます。
 2. 自分のリポジトリが作成されたら、20秒ほど待ってページを再読み込みします。
 3. 自分のリポジトリの README から演習 Issue を開き、日本語のステップ案内に沿って操作します。
 
