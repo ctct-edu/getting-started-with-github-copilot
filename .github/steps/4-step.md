@@ -14,6 +14,8 @@
 ### 画面での確認
 
 - Copilot Chat の入力欄付近で **Plan** を選びます。計画の中にテスト用フォルダと `pytest` の追加が含まれることを確認してから **Start implementation** を選びます。
+- **Plan** が表示されない場合は、チャットで「まず計画だけ示し、ファイルは変更しないでください」と依頼します。計画を確認してから「この計画に沿って実装してください。コミットとプッシュは行わないでください」と送ります。
 - 完了後は **Explorer** でテストファイルを、**TERMINAL** でテスト結果を、**Source Control** で変更一覧を確認します。
+- チャットの入力欄の上に **Keep** が表示されたら、差分を確認してから選びます。ターミナルで `python -m pip install -r requirements.txt`、続いて `python -m pytest -q` を実行し、結果に `passed` が表示されることを確認します。
 
 [原文](https://github.com/skills/getting-started-with-github-copilot/blob/main/.github/steps/4-step.md)
