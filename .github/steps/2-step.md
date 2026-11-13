@@ -19,4 +19,9 @@
 1. #codebase 同じ生徒が同じ活動に2回登録できます。原因はどこにありそうですか。
 2. スポーツ、芸術、知的活動をそれぞれ2件ずつ追加してください。
 
+### 画面での確認
+
+- 左の **Explorer** で `src` → `app.py` を開きます。エディター内の検索で `signup_for_activity` と `activities` をそれぞれ探します。
+- **Keep** を選ぶ前に差分を読み、プレビューで新しい活動が表示されることを確認します。**Source Control** で `+` を選ぶとファイルが **Staged Changes** に移ります。
+
 [原文](https://github.com/skills/getting-started-with-github-copilot/blob/main/.github/steps/2-step.md)

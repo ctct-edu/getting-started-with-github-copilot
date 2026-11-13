@@ -16,4 +16,9 @@
 
 2. `accelerate-with-copilot` という Git ブランチを作り、GitHub に公開するにはどうすればよいですか。
 
+### 画面での確認
+
+- GitHub の演習 Issue を開いたタブを残し、Codespace の **Repository** に自分のユーザー名／演習名が表示されていることを確認して作成します。
+- VS Code の左端の四角が並ぶアイコンが **Extensions**、再生ボタンと虫のアイコンが **Run and Debug** です。**Ports** はエディターの下にあります。ポート `8000` の行でブラウザーを開き、サンプルサイトが表示されることを確認します。
+
 [原文](https://github.com/skills/getting-started-with-github-copilot/blob/main/.github/steps/1-step.md)

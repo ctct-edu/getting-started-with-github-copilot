@@ -11,4 +11,9 @@
 2. テストの構成に AAA（Arrange・Act・Assert）パターンを使ってください。
 3. `pytest` を使い、`requirements.txt` に追加してください。
 
+### 画面での確認
+
+- Copilot Chat の入力欄付近で **Plan** を選びます。計画の中にテスト用フォルダと `pytest` の追加が含まれることを確認してから **Start implementation** を選びます。
+- 完了後は **Explorer** でテストファイルを、**TERMINAL** でテスト結果を、**Source Control** で変更一覧を確認します。
+
 [原文](https://github.com/skills/getting-started-with-github-copilot/blob/main/.github/steps/4-step.md)
